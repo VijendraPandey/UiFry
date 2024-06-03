@@ -1,5 +1,8 @@
 # UiFry
 
+## View Website
+https://ui-fry-psi.vercel.app/
+
 ## Instructions to run the project locally.
 Download the zip file or clone it on the system.
 Open it in any IDE like VS Code and run the Live Server.
